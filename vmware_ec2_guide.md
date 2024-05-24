@@ -1,4 +1,4 @@
-VMWare to Amazon EC2 Operations Guide 
+**VMWare to Amazon EC2 Operations Guide** 
 
 1. **AWS Fundamentals**
    - Introduction to AWS services (EC2, EBS, VPC, Security Groups, etc.)
