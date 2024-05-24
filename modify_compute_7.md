@@ -40,8 +40,5 @@
 **Important Notes:**
 
 - Hot-adding resources may incur additional costs based on your AWS pricing model and resource usage.
-- Always consider scaling vertically (resizing the instance) or horizontally (adding more instances) based on your workload requirements and cost considerations.
-- Regularly monitor your resource utilization and scale resources proactively to avoid performance bottlenecks.
-- Consult the AWS documentation for the latest updates and best practices regarding hot-adding resources to VM instances.
 
 By following these steps, an AWS system administrator can hot-add CPU, RAM, and disk resources to a virtual machine if resources become constrained, ensuring optimal performance and scalability for the application workloads running on the VM.
