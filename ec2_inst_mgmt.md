@@ -1,5 +1,3 @@
-Certainly! Here's a detailed step-by-step guide for EC2 Instance Management:
-
 **1. Launching and Terminating EC2 Instances**
 
 Launching an EC2 Instance:
